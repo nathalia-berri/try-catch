@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "mysql2": "^3.9.7",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "try-catch",
+  "version": "1.0.0",
+  "main": "ex_1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
